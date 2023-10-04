@@ -4,8 +4,11 @@ Hi, we are Spellbook Studios ✨
 
 We like to create magical and memeroable experiences
 
-#### Fun facts:
- 🐱 we are all cat owners
+#### Fun facts
+
+#### Community Guidelines
+
+#### Reach us at
 
 <!--
 
